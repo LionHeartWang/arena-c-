@@ -12,9 +12,10 @@ using namespace std;
 class Solution028 {
 public:
     int strStr(string haystack, string needle);
-    static void main(int argc, char **argv) {
+    static int main(int argc, char **argv) {
         Solution028 solution;
         solution.strStr(NULL, NULL);
+        return 0;
     }
 };
 
