@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangyiguang/Projects/arena-cpp/solutions/solution028.h
+string
+-
+
+/Users/wangyiguang/Projects/arena-cpp/solutions/sulution028.cpp
+solution028.h
+/Users/wangyiguang/Projects/arena-cpp/solutions/solution028.h
+iostream
+-
+string
+-
+

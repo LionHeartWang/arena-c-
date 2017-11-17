@@ -1,0 +1,3 @@
+file(GLOB SOURCE_1 "${PROJECT_ROOT_PATH}/solutions/*.cpp")
+add_executable(solution028 ${SOURCE_1})
+TARGET_LINK_LIBRARIES(solutions)

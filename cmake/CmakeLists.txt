@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 2.6)
+
+project(ArenaCpp)
+
+set(PROJECT_ROOT_PATH "${CMAKE_SOURCE_DIR}/../")
+set(EXECUTABLE_OUTPUT_PATH "${CMAKE_SOURCE_DIR}/bin/")
+set(LIBRARY_OUTPUT_PATH "${CMAKE_SOURCE_DIR}/lib/")
+
+include_directories("${PROJECT_ROOT_PATH}/include/")
+link_directories("${CMAKE_SOURCE_DIR}/lib/")
+
+add_subdirectory(src)

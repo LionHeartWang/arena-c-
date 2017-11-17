@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/solution028.dir/Users/wangyiguang/Projects/arena-cpp/solutions/sulution028.cpp.o  -o ../../bin/solution028  -L/Users/wangyiguang/Projects/arena-cpp/cmake/lib 
