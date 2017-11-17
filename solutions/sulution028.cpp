@@ -10,5 +10,6 @@ using namespace std;
 
 
 int Solution028::strStr(string haystack, string needle) {
-    cout << "hello world";
+    cout << "hello world" << endl;
+    return 0;
 }

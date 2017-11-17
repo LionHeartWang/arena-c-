@@ -12,11 +12,12 @@ using namespace std;
 class Solution028 {
 public:
     int strStr(string haystack, string needle);
-    static int main(int argc, char **argv) {
-        Solution028 solution;
-        solution.strStr(NULL, NULL);
-        return 0;
-    }
 };
+
+int main(int argc, char **argv) {
+    Solution028 solution;
+    solution.strStr("", "");
+    return 0;
+}
 
 #endif //ARENA_CPP_SOLUTION28_H
