@@ -13,3 +13,7 @@ int Solution028::strStr(string haystack, string needle) {
     cout << "hello world" << endl;
     return 0;
 }
+
+void Solution028::run() {
+    strStr("", "");
+}

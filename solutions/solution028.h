@@ -6,18 +6,14 @@
 #define ARENA_CPP_SOLUTION28_H
 
 #include <string>
+#include "solution.h"
 
 using namespace std;
 
-class Solution028 {
+class Solution028 : public Solution {
 public:
     int strStr(string haystack, string needle);
+    void run();
 };
-
-int main(int argc, char **argv) {
-    Solution028 solution;
-    solution.strStr("", "");
-    return 0;
-}
 
 #endif //ARENA_CPP_SOLUTION28_H
