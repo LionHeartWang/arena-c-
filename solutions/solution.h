@@ -38,6 +38,29 @@ public:
 };
 
 
+class Solution680 : public Solution {
+public:
+    bool validPalindrome(string s);
+    void run();
+private:
+    bool isp(string s, int l, int r);
+};
+
+
+class Solution686 : public Solution {
+public:
+    int repeatedStringMatch(string A, string B);
+    void run();
+};
+
+
+class Solution696 : public Solution {
+public:
+    int countBinarySubstrings(string s);
+    void run();
+};
+
+
 class Solution728 : public Solution {
 public:
     vector<int> selfDividingNumbers(int left, int right);

@@ -43,6 +43,15 @@ int main(int argc, char **argv) {
         case 657:
             solution = new Solution657();
             break;
+        case 680:
+            solution = new Solution680();
+            break;
+        case 686:
+            solution = new Solution686();
+            break;
+        case 696:
+            solution = new Solution696();
+            break;
         case 728:
             solution = new Solution728();
             break;
