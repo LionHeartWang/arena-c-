@@ -3,11 +3,6 @@
 //
 
 #include "solution.h"
-#include "solution028.h"
-#include "solution461.h"
-#include "solution657.h"
-#include "solution728.h"
-#include "solution771.h"
 
 #include <stdlib.h>
 #include <iostream>

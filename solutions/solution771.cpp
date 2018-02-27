@@ -2,7 +2,7 @@
 // Created by wangyiguang on 18/2/26.
 //
 
-#include "solution771.h"
+#include "solution.h"
 #include <iostream>
 #include <string>
 #include <set>

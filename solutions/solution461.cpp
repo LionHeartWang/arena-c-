@@ -2,7 +2,7 @@
 // Created by wangyiguang on 18/2/26.
 //
 
-#include "solution461.h"
+#include "solution.h"
 #include <iostream>
 #include <string>
 
